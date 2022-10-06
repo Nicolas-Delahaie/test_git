@@ -2,18 +2,15 @@ body
 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
-<<<<<<< HEAD
     background-color : red;
-
-=======
     margin: 45px;
->>>>>>> 98e52719761bdd613a6ab410524107d177d934fc
 }
 
 h1{
     background-color: red;
     font-size: 60px;
     text-transform: uppercase;
+    text-align: center; 
 }
 
 p {

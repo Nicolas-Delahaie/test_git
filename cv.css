@@ -1,6 +1,6 @@
 body
 {
-    font-family: 'Courrier New', Courier, monospace;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold
 }
 
@@ -9,6 +9,6 @@ h1{
     font-size: 60px;
 }
 
-li {
+p {
     color : blue;
 }

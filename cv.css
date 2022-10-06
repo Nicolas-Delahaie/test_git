@@ -1,7 +1,8 @@
 body
 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: bold
+    font-weight: bold;
+    margin: 45px;
 }
 
 h1{
